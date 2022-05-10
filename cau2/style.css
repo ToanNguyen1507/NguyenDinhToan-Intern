@@ -1,0 +1,27 @@
+#resetCss
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+input{
+    flex                             : 1;
+    padding                          : 10px 20px;
+    font-size                        : 1em;
+    
+    -webkit-border-top-left-radius   : 25px;
+    -webkit-border-bottom-left-radius: 25px;
+    -moz-border-radius-topleft       : 25px;
+    -moz-border-radius-bottomleft    : 25px;
+    border-top-left-radius           : 25px;
+    border-bottom-left-radius        : 25px;
+    box-shadow                       : none;
+    border                           : none;
+    box-shadow                       : 2px 4px 6px rgba(0, 0, 0, 0.19);
+
+ }
+
